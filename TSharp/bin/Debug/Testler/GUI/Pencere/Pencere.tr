@@ -1,0 +1,9 @@
+#Pencere
+{
+@Başlık="Ahmetet";
+@Simge=@Pasif;
+@Genişlik=500;
+@Yükseklik=500;
+@Arkaplan=(200,200,200);
+@Konum=(10,10);
+}

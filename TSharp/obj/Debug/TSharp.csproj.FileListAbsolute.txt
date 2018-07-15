@@ -1,0 +1,6 @@
+Z:\T#\TSharp\TSharp\bin\Debug\TSharp.exe.config
+Z:\T#\TSharp\TSharp\bin\Debug\TSharp.exe
+Z:\T#\TSharp\TSharp\bin\Debug\TSharp.pdb
+Z:\T#\TSharp\TSharp\obj\Debug\TSharp.csprojResolveAssemblyReference.cache
+Z:\T#\TSharp\TSharp\obj\Debug\TSharp.exe
+Z:\T#\TSharp\TSharp\obj\Debug\TSharp.pdb

@@ -1,0 +1,11 @@
+#Pencere{
+@Simge=@PASİF;
+@Başlık="Metin_Kutusu_Deneme";
+@Arkaplan=(100,200,255);
+}
+#Metinkutusu{
+@Yazı="ahmetet";
+@Renk=(0,0,0);
+@Arkaplan=(100,200,255);
+@Konum=(25,25);
+}
